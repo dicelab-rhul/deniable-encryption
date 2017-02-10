@@ -1,0 +1,9 @@
+*.jar
+
+bin/*
+bin/**
+bin/
+
+bcprov-jdk15on-156/
+bcprov-jdk15on-156/*
+bcprov-jdk15on-156/**
